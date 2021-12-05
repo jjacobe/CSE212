@@ -15,6 +15,7 @@ In this diagram we use a few key terms such as “Enqueue” and “Dequeue”
 ## Operations
 
 _Enqueue_
+
 We can add a new value to the back of the queue by using the append function
 In Python, this can be written as:
 
@@ -25,6 +26,7 @@ my_queue.append(value)
 The Big O notation for this is O(1) - Performance of adding to the end of the dynamic array
 
 _Dequeue_
+
 We can remove the value at the front of the queue by using the pop function
 In Python, this can be written as:
 
