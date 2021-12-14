@@ -14,6 +14,8 @@ Some uses of sets are:
 - Providing fast access to unique results previously calculated
 - Performing mathematical set operations such as an intersection and union
 
+![](venn.png)
+
 ## Operations
 
 _Add_
@@ -69,3 +71,6 @@ Now have a try at solving the following problem! Let's sort out this grocery lis
 Check the solution once you're done!
 
 [Grocery Solution](grocery_solution.py)
+
+
+## [Back To Home](0-welcome.md)

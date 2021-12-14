@@ -64,3 +64,6 @@ Now have a try at solving the following problem! This problem asks to fix the fr
 Check the solution once you're done!
 
 [Fruits solution](fruits_solution.py)
+
+
+## [Back To Home](0-welcome.md)
